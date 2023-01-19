@@ -3,11 +3,11 @@
   },
     {
       "chainId": 101,
-      "address": "BUyVyH4LVJZjCVF1dDrbdAG5GBEZSo8K8asa6hsMntPn",
+      "address": "7LLH2RZnBWeVhn8LraZ4Y5c6HFXzukHRpCoci4mdUUS2",
       "symbol": "GMT",
       "name": "GMT Token",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BUyVyH4LVJZjCVF1dDrbdAG5GBEZSo8K8asa6hsMntPn/logo.png",
+      "logoURI":
       "tags": [
         "fig-token",
         "game-token",
